@@ -1,0 +1,2 @@
+# Sequence-Alignment
+In this assignment, we will look at an application of Dynamic Programming to align DNA sequences. In the global DNA sequence alignment problem, you are given as input two DNA sequences S1, S2, which are strings using the four characters A, C, T, G. The strings are of lengths m, n, where possibly m 6= n. Given two DNA sequences, the goal is to compute the best possible (minimum) alignment cost between them. We will soon specify how to compute the alignment cost between two sequences.
